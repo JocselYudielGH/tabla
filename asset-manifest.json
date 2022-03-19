@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tabla/static/css/main.807ee74c.css",
+    "main.js": "/tabla/static/js/main.5cc16d2d.js",
+    "static/js/787.b9880db9.chunk.js": "/tabla/static/js/787.b9880db9.chunk.js",
+    "index.html": "/tabla/index.html",
+    "main.807ee74c.css.map": "/tabla/static/css/main.807ee74c.css.map",
+    "main.5cc16d2d.js.map": "/tabla/static/js/main.5cc16d2d.js.map",
+    "787.b9880db9.chunk.js.map": "/tabla/static/js/787.b9880db9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.807ee74c.css",
+    "static/js/main.5cc16d2d.js"
+  ]
+}
