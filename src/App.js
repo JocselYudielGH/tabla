@@ -27,6 +27,7 @@ function App() {
             <th>Código</th>
             <th>Descripción</th>
             <th>Precio</th>
+            <th>Borrar</th>
           </tr>
         </thead>
         <tbody>
